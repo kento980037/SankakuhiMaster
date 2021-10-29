@@ -1,9 +1,48 @@
-# SankakuhiMaster
+# さんかくひマスター
 
-データ自体を公開できたい素材を用いているためソースコードのみでの公開となります
+## What is it ?
 
-AppStoreで公開
-https://apps.apple.com/de/app/triangle-ratio-master/id1503512573
+三角比をゲーム感覚で暗記することを目的としたカジュアルゲームです。
 
-GooglePlayでの公開
-https://play.google.com/store/apps/details?id=com.Company.kento0037
+開発理由は私が大学時代に家庭教師で教えていた生徒が三角比の暗記に困っていたためです。
+
+彼は、ゲームが好きで休み時間によくゲームで遊んでいて、ゲーム形式で楽しく暗記できるものがあればいいと思いました。
+
+また、記憶を定着させるためには長く遊んでもらえる方が良いと考え、ゲームでいい結果を出すとアイテムを手に入れることができるコレクション要素や、回答するスピードを競うタイムアタック機能を実装しました。
+
+（結果、その生徒は次の定期テストで平均点以上の点数を取ることができました！）
+
+<img width="237" alt="sanakku1" src="https://user-images.githubusercontent.com/82075582/139360741-0c387260-7106-40a4-ab8d-69260201a60d.png"><img width="232" alt="sankaku2" src="https://user-images.githubusercontent.com/82075582/139360756-0a69d0e2-cbfa-462d-acfe-f28ca542a603.png"><img width="235" alt="sanakku3" src="https://user-images.githubusercontent.com/82075582/139360766-b11cc37e-7d81-4fb6-b181-d79739dd61c7.png"><img width="234" alt="sankaku4" src="https://user-images.githubusercontent.com/82075582/139360776-6c3f7087-a1cd-4748-b87a-eed6974825db.png">
+
+
+
+## Feature
+
+- コレクション機能
+- タイムアタック機能
+- きろく機能
+
+## AppStore (iOS) / Google Play (Android)
+[さんかくひマスター(iOS)](
+https://apps.apple.com/de/app/triangle-ratio-master/id1503512573)
+
+[さんかくひマスター(Android)](
+https://play.google.com/store/apps/details?id=com.Company.kento0037)
+
+「sin30°って何だっけ？」「やばい、さっと出てこない・・・」
+そんなときありますよね。
+三角比専用暗記アプリ「さんかくひマスター」がついに登場！！
+定期試験対策、受験対策に必要な三角比の知識をゲームをやりながら完全にインプットしよう！
+
+- 「あそぶ」を選択しいずれかのレベルを選び、ゲームをプレイすることができます。
+- ゲームが始まると三角比の問題が出題されるのでその答えに該当するものを選択します。すると、まるばつが表示され、次の問題が出題されます。
+- 三角比の問題は１０問あり、全てに答えるとゲームが終了します。
+- ゲームが終了するとスコアが表示されます。スコアは、１０問答えるのに要した時間と正解数によって決まります。
+- ある条件をクリアするとコレクションがもらえます。全部で１５種類あるので頑張ってコンプリートしてみてください。
+
+## Note
+
+素材自体を公開できないものを用いているためソースコードのみでの公開となります．
+
+## Author
+@kento980037
